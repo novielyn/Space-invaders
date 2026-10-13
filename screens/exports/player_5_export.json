@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "id": 5,
+    "username": "acot",
+    "email": "acot@gmail.com",
+    "high_score": 2180,
+    "profile_picture": "assets\\profiles\\avatar_67631.png",
+    "total_games": 9,
+    "total_score": 5630,
+    "created_at": "2026-09-06 13:44:54"
+  },
+  "settings": {
+    "avatar": "hood",
+    "avatar_path": "assets\\profiles\\avatar_67631.png",
+    "visibility": "offline",
+    "show_online": false,
+    "allow_friend_requests": true,
+    "login_alerts": true,
+    "two_factor": true,
+    "connected_accounts": {}
+  }
+}

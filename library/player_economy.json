@@ -1,0 +1,12 @@
+{
+  "guest": {
+    "owned_ships": [
+      "starter"
+    ]
+  },
+  "5": {
+    "owned_ships": [
+      "starter"
+    ]
+  }
+}

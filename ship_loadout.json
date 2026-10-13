@@ -1,0 +1,42 @@
+{
+  "6": {
+    "equipped_ship": "falcon",
+    "selected_ship": "falcon",
+    "current_ship": "falcon",
+    "active_ship": "falcon",
+    "ship": "falcon",
+    "ship_id": "falcon"
+  },
+  "8": {
+    "equipped_ship": "falcon",
+    "selected_ship": "falcon",
+    "current_ship": "falcon",
+    "active_ship": "falcon",
+    "ship": "falcon",
+    "ship_id": "falcon"
+  },
+  "9": {
+    "equipped_ship": "wraith",
+    "selected_ship": "wraith",
+    "current_ship": "wraith",
+    "active_ship": "wraith",
+    "ship": "wraith",
+    "ship_id": "wraith"
+  },
+  "10": {
+    "equipped_ship": "starter",
+    "selected_ship": "starter",
+    "current_ship": "starter",
+    "active_ship": "starter",
+    "ship": "starter",
+    "ship_id": "starter"
+  },
+  "11": {
+    "equipped_ship": "falcon",
+    "selected_ship": "falcon",
+    "current_ship": "falcon",
+    "active_ship": "falcon",
+    "ship": "falcon",
+    "ship_id": "falcon"
+  }
+}

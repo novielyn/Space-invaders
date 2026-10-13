@@ -1,0 +1,24 @@
+{
+  "5": {
+    "show_online": true,
+    "friend_requests": true,
+    "login_alerts": true,
+    "two_factor": true,
+    "animations": true,
+    "compact": true,
+    "connected": {},
+    "connected_accounts": {},
+    "avatar_path": "assets\\profiles\\avatar_67631.png",
+    "username": "acot",
+    "email": "acot@gmail.com",
+    "preview_ship": "falcon",
+    "ship_preview_rotation": 0.0,
+    "selected_ship": "falcon",
+    "ship_rotation": 0.0,
+    "selected_ship_color": "LIME",
+    "unlocked_ships": [
+      "starter",
+      "falcon"
+    ]
+  }
+}
